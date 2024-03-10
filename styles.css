@@ -44,6 +44,7 @@ p {
     align-items: center;
     flex-direction: column;
     width: 320px;
+    height: 497px;
     padding: 20px;
     margin: 20px;
     background-color: var(--white);
@@ -54,7 +55,7 @@ p {
 
 .card img {
     border-radius: 10px;
-    width: 280px;
+    width: 288px;
 }
 
 .card-content {
